@@ -1,1 +1,19 @@
-{"ratingQuestions":[]}
+{
+  "ratingQuestions": [
+    {
+      "id": 1,
+      "question": "How would you rate the cleanliness of our facility?",
+      "options": ["1 - Poor", "2 - Fair", "3 - Good", "4 - Very Good", "5 - Excellent"]
+    },
+    {
+      "id": 2,
+      "question": "How satisfied are you with our customer service?",
+      "options": ["1 - Not Satisfied", "2 - Slightly Satisfied", "3 - Neutral", "4 - Satisfied", "5 - Very Satisfied"]
+    },
+    {
+      "id": 3,
+      "question": "How likely are you to recommend our services to a friend or colleague?",
+      "options": ["1 - Not Likely", "2 - Unlikely", "3 - Neutral", "4 - Likely", "5 - Very Likely"]
+    }
+  ]
+}
